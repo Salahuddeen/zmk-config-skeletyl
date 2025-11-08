@@ -19,9 +19,9 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_rp2040
+  - board: rpi_pico
     shield: skeletyl_left
-  - board: seeeduino_xiao_rp2040
+  - board: rpi_pico
     shield: skeletyl_right
-  - board: seeeduino_xiao_rp2040
+  - board: rpi_pico
     shield: settings_reset
