@@ -19,9 +19,9 @@
 #
 ---
 include:
-  - board: waveshare_rp2040_zero
+  - board: seeeduino_xiao_rp2040
     shield: skeletyl_left
-  - board: waveshare_rp2040_zero
+  - board: seeeduino_xiao_rp2040
     shield: skeletyl_right
-  - board: waveshare_rp2040_zero
+  - board: seeeduino_xiao_rp2040
     shield: settings_reset
